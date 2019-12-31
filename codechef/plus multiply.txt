@@ -1,4 +1,6 @@
-# cook your dish here
+"""
+problem link= https://www.codechef.com/DEC19B/problems/PLMU
+"""
 import math
 T=int(input())
 it=0
@@ -30,7 +32,3 @@ while it<T:
 for i in range(len(ans)):
     print(ans[i])
     
-
-"""
-problem link is https://www.codechef.com/DEC19B/problems/PLMU
-"""
